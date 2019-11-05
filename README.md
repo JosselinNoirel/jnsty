@@ -16,5 +16,5 @@ logo: graphic files.
 1. Identify which TEXMF directory you want to use `kpsexpand '$TEXMF'`
 2. Clone the repository in the subdirectory `tex/latex`
 
-	git clone --depth 1 https://github.com/JosselinNoirel/jnsty.git
-	rm -rf jnsty/.git
+        git clone --depth 1 https://github.com/JosselinNoirel/jnsty.git
+	    rm -rf jnsty/.git
