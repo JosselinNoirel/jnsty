@@ -17,4 +17,5 @@ logo: graphic files.
 2. Clone the repository in the subdirectory `tex/latex`
 
         git clone --depth 1 https://github.com/JosselinNoirel/jnsty.git
-	    rm -rf jnsty/.git
+
+3. Keep your copy up to date with `git pull`
