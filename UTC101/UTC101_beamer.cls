@@ -1,5 +1,5 @@
 % -*- latex -*-
-\LoadClass[french]{beamer}
+\LoadClass[french,ignorenonframetext]{beamer}
 
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
